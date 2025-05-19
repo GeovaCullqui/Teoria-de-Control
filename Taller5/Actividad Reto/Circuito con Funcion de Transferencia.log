@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\geova\Desktop\Taller5\Nueva carpeta\Circuito con Funcion de Transferencia.asc
+Start Time: Sun May 18 16:57:09 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+reltol = 0.005
+Laplace(e1): Window=41.501505s Nfft=2048
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 403.294 seconds.
+
